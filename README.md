@@ -13,7 +13,7 @@ Supports **advanced surgical techniques** like *laparoscopic* and *robot-assiste
 
 ## 📷 Device Preview
 
-![image](https://github.com/Aash205/OTLight/issues/1)
+![Image](https://github.com/Aash205/OTLight/issues/1)
 
 ---
 
